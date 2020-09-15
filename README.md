@@ -6,7 +6,7 @@
 
 ## About
 If you've finished the amazing introductory Machine Learning on Coursera by Prof. Andrew Ng, you probably got familiar with Octave/Matlab programming. With this repo, you can re-implement them in Python, step-by-step, visually checking your work along the way, just as the course assignments.
-
+tanghaoyang
 ## How to start
 ### Dependencies
 This project was coded in Python 3.6
